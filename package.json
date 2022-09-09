@@ -1,9 +1,9 @@
 {
-    "name": "by-blog",
-    "title": "BY Blog",
-    "author": "BY <WeihuaZhuios@163.com>",
+    "name": "weihua-blog",
+    "title": "Weihua Blog",
+    "author": "Weihua <zhuweihua2746@hotmail.com>",
     "version": "1.7.0",
-    "homepage": "http://WeihuaZhu.github.io",
+    "homepage": "http://weihuazhu.github.io",
     "repository": {
         "type": "git",
         "url": "https://github.com/WeihuaZhu/WeihuaZhu.github.io"
