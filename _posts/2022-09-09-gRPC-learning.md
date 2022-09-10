@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Blog Template
+title:      RPC, gRPC, and Protocol Buffer
 subtitle:   blog template
 date:       2022-09-09
 author:     Weihua
@@ -11,6 +11,7 @@ tags:
     - RPC
     - gRPC
 ---
+To be updated
 # RPC framework & Protocol buffers (protobuff)
 
 ## RPC
