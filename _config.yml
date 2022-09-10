@@ -3,7 +3,7 @@ title: Weihua's personal website
 SEOTitle: Weihua的博客 | Weihua Blog
 header-img: img/post-bg-desk.jpg
 email: zhuweihua2746@hotmail.com
-description: "Every failure is leading towards success."
+description: "Long term consistency trumps short term intensity"
 keyword: "Weihua, Weihua Blog, Weihua的博客, WeihuaZhu, Weihua Zhu, API, Backend, Golang, Python, Product Eng, Product Backend Eng"
 url: "http://WeihuaZhu.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/WeihuaZhu/WeihuaZhu.github.io.git" # you code r
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "A Life-long learner"
 sidebar-avatar: /img/avatar.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -19,10 +19,10 @@ sidebar-avatar: /img/avatar.jpeg      # use absolute URL, seeing it's used in bo
 # SNS settings
 RSS: false
 # weibo_username:     
-zhihu_username: Zack
+zhihu_username: weihuazhu
 github_username: WeihuaZhu
 # facebook_username:  
-# jianshu_username:   
+jianshu_username: zackzhu
 #twitter_username: WeihuaZhu
 
 
